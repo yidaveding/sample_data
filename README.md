@@ -1,2 +1,2 @@
-# sample_data
-contains sample data for learning data skills
+# Sample Data Repository
+This repo contains a number of datasets that can be used to build demo reports.
